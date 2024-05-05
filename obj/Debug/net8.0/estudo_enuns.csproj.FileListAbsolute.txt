@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\obj\Debug\net8.0\estudo_enuns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\obj\Debug\net8.0\estudo_enuns.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\obj\Debug\net8.0\estudo_enuns.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\obj\Debug\net8.0\estudo_enuns.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\bin\Debug\net8.0\estudo_enuns.exe
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\bin\Debug\net8.0\estudo_enuns.deps.json
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\bin\Debug\net8.0\estudo_enuns.runtimeconfig.json
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\bin\Debug\net8.0\estudo_enuns.dll
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\bin\Debug\net8.0\estudo_enuns.pdb
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\obj\Debug\net8.0\estudo_enuns.dll
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\obj\Debug\net8.0\refint\estudo_enuns.dll
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\obj\Debug\net8.0\estudo_enuns.pdb
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\obj\Debug\net8.0\estudo_enuns.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\estudo_csharp\estudo_enuns\obj\Debug\net8.0\ref\estudo_enuns.dll
